@@ -1,4 +1,5 @@
-# GlucoFit 🍏
+# GlucoFit 
+not completed yet 
 
 A smart health & fitness tracker built with **React + TypeScript + Vite**.  
 GlucoFit helps you monitor your calorie intake, track daily activity, and stay on top of your fitness goals with an easy-to-use interface.
